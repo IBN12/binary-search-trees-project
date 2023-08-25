@@ -28,8 +28,8 @@ The projects will contains the following functions in the Tree class:
 and turns it into a balanced binary tree full of Node objectss appropriately placed. 
 <b>Note:</b> The array needs to be sorted and duplicate elements need to be removed:
 
-<b>InsertionSort</b> - will sort the selected array that will be used to create a binary search tree.
-<b>removeDuplicates</b> - will remove the duplicated elements from the array.
+* <b>InsertionSort</b> - will sort the selected array that will be used to create a binary search tree.
+* <b>removeDuplicates</b> - will remove the duplicated elements from the array.
 
 2. <b>prettyPrint</b> - function will console.log() your tree in a structured format. This
 function will expect to receive the root of your tree as the value for the node parameter. 
