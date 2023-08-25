@@ -27,6 +27,7 @@ The projects will contains the following functions in the Tree class:
 1. <b>buildTree</b> - function which takes an array of data (e.g. [1, 7, 4, 23, 8, 9, 4, 3, 5, 7, 9, 67, 6345, 324])
 and turns it into a balanced binary tree full of Node objectss appropriately placed. 
 <b>Note:</b> The array needs to be sorted and duplicate elements need to be removed:
+
 <b>InsertionSort</b> - will sort the selected array that will be used to create a binary search tree.
 <b>removeDuplicates</b> - will remove the duplicated elements from the array.
 
