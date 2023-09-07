@@ -171,6 +171,7 @@ class Tree{
             from an array and returns that removed element. 
             */
             let tempNode = queue.shift(); // Node data is first out
+            console.log(tempNode.data + "");
 
             // Enqueue left child
             if (tempNode.left !== null)
